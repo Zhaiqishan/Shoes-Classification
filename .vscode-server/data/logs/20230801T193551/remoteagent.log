@@ -9,3 +9,17 @@
 2023-08-01 19:35:51.947 [info] [127.0.0.1][3449dc25][ExtensionHostConnection] <7421> Launched Extension Host Process.
 2023-08-01 19:40:56.209 [info] New EH opened, aborting shutdown
 2023-08-01 19:41:05.448 [warning] No ptyHost heartbeat after 6 seconds
+2023-08-03 11:42:36.848 [info] Getting Manifest... ms-python.python
+2023-08-03 11:42:37.230 [info] Installing extension: ms-python.python
+2023-08-03 11:42:37.940 [info] Getting Manifest... ms-python.vscode-pylance
+2023-08-03 11:42:38.152 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-08-03 11:42:47.699 [info] Extension signature is verified: ms-python.python
+2023-08-03 11:42:54.144 [info] Extracted extension to /home/nvidia/.vscode-server/extensions/.f0283d91-19c1-4230-8cff-291f99c2c974: ms-python.python
+2023-08-03 11:42:54.458 [info] Renamed to /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0
+2023-08-03 11:42:54.478 [info] Extracting extension completed. ms-python.python
+2023-08-03 11:43:03.046 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-08-03 11:43:13.357 [info] Extracted extension to /home/nvidia/.vscode-server/extensions/.35f2bf77-210f-4448-84bd-59450623d43a: ms-python.vscode-pylance
+2023-08-03 11:43:13.442 [info] Renamed to /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.10
+2023-08-03 11:43:13.452 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-08-03 11:43:13.472 [info] Extension installed successfully: ms-python.python
+2023-08-03 11:43:13.472 [info] Extension installed successfully: ms-python.vscode-pylance

@@ -1,0 +1,444 @@
+2023-08-03 11:43:14.846 [info] Experiment 'pythonaa' is active
+2023-08-03 11:43:14.846 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-03 11:43:14.846 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-03 11:43:14.846 [info] Experiment 'pythonTestAdaptercf' is active
+2023-08-03 11:43:16.134 [info] Test server listening.
+2023-08-03 11:43:16.159 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:16.247 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:16.327 [info] > ./env/bin/python -I ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2023-08-03 11:43:16.340 [error] [Error: Command failed: /home/nvidia/env/bin/python -I /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+/bin/sh: 1: /home/nvidia/env/bin/python: not found
+
+	at ChildProcess.exithandler (node:child_process:400:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1093:16)
+	at Socket.<anonymous> (node:internal/child_process:451:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: '/home/nvidia/env/bin/python -I /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py'
+}
+2023-08-03 11:43:16.425 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-03 11:43:16.425 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-03 11:43:16.425 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-03 11:43:16.439 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:16.439 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:16.445 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:16.446 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.653 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.655 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.656 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.656 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.657 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.658 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.659 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.659 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.660 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.661 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.661 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.662 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.662 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.663 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.663 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.664 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.664 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.665 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.665 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:17.689 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.690 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.690 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.692 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.692 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.692 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.693 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.693 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.693 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.693 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.694 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.694 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.694 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.694 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.695 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.695 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.695 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.696 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:17.697 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:18.374 [info] > ./env/bin/python -I ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2023-08-03 11:43:18.377 [error] [Error: Command failed: /home/nvidia/env/bin/python -I /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+/bin/sh: 1: /home/nvidia/env/bin/python: not found
+
+	at ChildProcess.exithandler (node:child_process:400:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1093:16)
+	at Socket.<anonymous> (node:internal/child_process:451:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: '/home/nvidia/env/bin/python -I /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py'
+}
+2023-08-03 11:43:18.532 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:18.545 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:20.970 [info] Starting Pylance language server.
+2023-08-03 11:43:20.987 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:20.988 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:21.014 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:21.025 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:21.025 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:21.051 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:21.063 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:21.073 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:44.623 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:44.645 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:44.718 [info] > conda info --json
+2023-08-03 11:43:44.727 [warning] Failed to check if /home/nvidia/env/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/nvidia/env/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/nvidia/env/bin/python'
+}
+2023-08-03 11:43:44.746 [warning] Identifier for virt-virtualenv failed to identify /home/nvidia/env/bin/python [Error: ENOENT: no such file or directory, scandir '/home/nvidia/env/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/nvidia/env/bin'
+}
+2023-08-03 11:43:44.771 [info] Found: /usr/bin/python --> /usr/bin/python2.7
+2023-08-03 11:43:44.773 [info] Found: /usr/bin/python2 --> /usr/bin/python2.7
+2023-08-03 11:43:44.774 [info] Found: /usr/bin/python2.7 --> /usr/bin/python2.7
+2023-08-03 11:43:44.776 [info] Found: /usr/bin/python3 --> /usr/bin/python3.6
+2023-08-03 11:43:44.776 [info] Found: /usr/bin/python3.6 --> /usr/bin/python3.6
+2023-08-03 11:43:44.787 [info] Found: /usr/include/python3.6 --> /usr/include/python3.6m
+2023-08-03 11:43:44.856 [info] > /usr/bin/python -I ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2023-08-03 11:43:44.862 [warning] [Error: Command failed: /usr/bin/python -I /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /usr/bin/python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:400:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1093:16)
+	at Socket.<anonymous> (node:internal/child_process:451:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/python -I /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py'
+}
+2023-08-03 11:43:44.862 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2023-08-03 11:43:44.893 [info] > /usr/bin/python ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2023-08-03 11:43:44.953 [info] > /usr/bin/python3 -I ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2023-08-03 11:43:45.033 [info] > /usr/include/python3.6 -I ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2023-08-03 11:43:45.040 [error] [Error: Command failed: /usr/include/python3.6 -I /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+/bin/sh: 1: /usr/include/python3.6: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:400:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1093:16)
+	at Socket.<anonymous> (node:internal/child_process:451:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 126,
+  killed: false,
+  signal: null,
+  cmd: '/usr/include/python3.6 -I /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py'
+}
+2023-08-03 11:43:47.323 [info] > /usr/include/python3.6 -I ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2023-08-03 11:43:51.388 [error] [Error: Command failed: /usr/include/python3.6 -I /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+/bin/sh: 1: /usr/include/python3.6: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:400:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1093:16)
+	at Socket.<anonymous> (node:internal/child_process:451:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:757:14)] {
+  code: 126,
+  killed: false,
+  signal: null,
+  cmd: '/usr/include/python3.6 -I /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /home/nvidia/.vscode-server/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py'
+}
