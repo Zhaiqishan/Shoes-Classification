@@ -1,0 +1,96 @@
+2023-07-28 10:30:14.795 [info] 
+
+
+
+
+2023-07-28 10:30:14.912 [info] Extension host agent started.
+2023-07-28 10:30:15.120 [info] [127.0.0.1][67628439][ManagementConnection] New connection established.
+2023-07-28 10:30:15.130 [info] [127.0.0.1][d40f0fcc][ExtensionHostConnection] New connection established.
+2023-07-28 10:30:15.538 [info] [127.0.0.1][d40f0fcc][ExtensionHostConnection] <8797> Launched Extension Host Process.
+2023-07-28 10:35:14.916 [info] New EH opened, aborting shutdown
+2023-07-28 11:09:19.856 [info] [127.0.0.1][67628439][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-28 11:09:19.943 [info] [127.0.0.1][d40f0fcc][ExtensionHostConnection] <8797> Extension Host Process exited with code: 0, signal: null.
+2023-07-28 11:09:19.944 [info] Last EH closed, waiting before shutting down
+2023-07-28 11:11:40.670 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-07-28 11:11:40.671 [info] Cancelling previous shutdown timeout
+2023-07-28 11:11:40.936 [info] [127.0.0.1][1f0b1765][ManagementConnection] New connection established.
+2023-07-28 11:11:41.037 [info] [127.0.0.1][30f7c3d7][ExtensionHostConnection] New connection established.
+2023-07-28 11:11:41.057 [info] [127.0.0.1][30f7c3d7][ExtensionHostConnection] <9402> Launched Extension Host Process.
+2023-07-28 11:11:43.522 [error] CodeExpectedError: Could not find pty on pty host
+    at g.O (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:28:7243)
+    at g.updateTitle (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:28:2685)
+    at g.Q.<computed> (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:27:22460)
+    at Object.call (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:17:4866)
+    at u.s (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:5150)
+    at u.q (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:4661)
+    at i.value (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:4066)
+    at E.w (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:10:1902)
+    at E.fire (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:10:2119)
+    at process.G (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:8:27085)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-07-28 11:11:45.836 [info] [127.0.0.1][1f0b1765][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-28 11:11:46.485 [info] [127.0.0.1][30f7c3d7][ExtensionHostConnection] <9402> Extension Host Process exited with code: 0, signal: null.
+2023-07-28 11:11:46.486 [info] Cancelling previous shutdown timeout
+2023-07-28 11:11:46.486 [info] Last EH closed, waiting before shutting down
+2023-07-28 11:12:09.659 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-07-28 11:12:09.660 [info] Cancelling previous shutdown timeout
+2023-07-28 11:12:09.957 [info] [127.0.0.1][ae68a6f9][ManagementConnection] New connection established.
+2023-07-28 11:12:09.990 [info] [127.0.0.1][85ccdbc4][ExtensionHostConnection] New connection established.
+2023-07-28 11:12:10.010 [info] [127.0.0.1][85ccdbc4][ExtensionHostConnection] <9528> Launched Extension Host Process.
+2023-07-28 11:12:16.259 [error] CodeExpectedError: Could not find pty on pty host
+    at g.O (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:28:7243)
+    at g.updateTitle (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:28:2685)
+    at g.Q.<computed> (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:27:22460)
+    at Object.call (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:17:4866)
+    at u.s (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:5150)
+    at u.q (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:4661)
+    at i.value (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:4066)
+    at E.w (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:10:1902)
+    at E.fire (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:10:2119)
+    at process.G (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:8:27085)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-07-28 11:12:16.260 [error] CodeExpectedError: Could not find pty on pty host
+    at g.O (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:28:7243)
+    at g.updateIcon (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:28:2735)
+    at g.Q.<computed> (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:27:22460)
+    at Object.call (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:17:4866)
+    at u.s (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:5150)
+    at u.q (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:4661)
+    at i.value (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:4066)
+    at E.w (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:10:1902)
+    at E.fire (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:10:2119)
+    at process.G (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:8:27085)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-07-28 11:12:24.477 [info] [127.0.0.1][ae68a6f9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-28 11:12:24.523 [info] [127.0.0.1][85ccdbc4][ExtensionHostConnection] <9528> Extension Host Process exited with code: 0, signal: null.
+2023-07-28 11:12:24.523 [info] Cancelling previous shutdown timeout
+2023-07-28 11:12:24.523 [info] Last EH closed, waiting before shutting down
+2023-07-28 11:12:30.108 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-07-28 11:12:30.109 [info] Cancelling previous shutdown timeout
+2023-07-28 11:12:30.210 [info] [127.0.0.1][33867acf][ManagementConnection] New connection established.
+2023-07-28 11:12:30.225 [info] [127.0.0.1][a5b7c7c0][ExtensionHostConnection] New connection established.
+2023-07-28 11:12:30.240 [info] [127.0.0.1][a5b7c7c0][ExtensionHostConnection] <9658> Launched Extension Host Process.
+2023-07-28 11:12:32.474 [error] CodeExpectedError: Could not find pty on pty host
+    at g.O (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:28:7243)
+    at g.updateTitle (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:28:2685)
+    at g.Q.<computed> (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:27:22460)
+    at Object.call (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:17:4866)
+    at u.s (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:5150)
+    at u.q (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:4661)
+    at i.value (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:15:4066)
+    at E.w (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:10:1902)
+    at E.fire (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:10:2119)
+    at process.G (/home/nvidia/.vscode-server/bin/660393deaaa6d1996740ff4880f1bad43768c814/out/vs/platform/terminal/node/ptyHostMain.js:8:27085)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-07-28 11:17:30.110 [info] New EH opened, aborting shutdown
+2023-07-28 18:12:10.674 [info] [127.0.0.1][a5b7c7c0][ExtensionHostConnection] <9658> Extension Host Process exited with code: 0, signal: null.
+2023-07-28 18:12:10.683 [info] Last EH closed, waiting before shutting down
+2023-07-28 18:17:10.687 [info] Last EH closed, shutting down

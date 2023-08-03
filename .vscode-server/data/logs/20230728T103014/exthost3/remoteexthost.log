@@ -1,0 +1,9 @@
+2023-07-28 11:12:11.586 [info] Extension host with pid 9528 started
+2023-07-28 11:12:11.792 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-28 11:12:14.118 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-28 11:12:14.119 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-28 11:12:14.774 [info] Eager extensions activated
+2023-07-28 11:12:14.775 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-28 11:12:14.777 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-28 11:12:24.479 [info] Extension host terminating: received terminate message from renderer
+2023-07-28 11:12:24.504 [info] Extension host with pid 9528 exiting with code 0
