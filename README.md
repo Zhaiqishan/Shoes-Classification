@@ -17,4 +17,4 @@ The Shoes Classification is based on jetson-inference and nano,  there are 670 p
 2. Make sure to include any required libraries that need to be installed for your project to run.
    
 
-[View a video explanation here](video link)
+[View a video explanation here](https://youtu.be/3a3tM9i6gS0)
